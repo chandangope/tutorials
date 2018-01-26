@@ -1,6 +1,7 @@
 # tutorials
 
-*lstm_waveforms_classification.ipynb*
+__*lstm_waveforms_classification.ipynb*__
+
 A __Recurrent Neural Network__ tutorial.
 In particular, a *very simple* __LSTM__ implementation tutorial using __TensorFlow__ library.
 We demonstrate sequence recognition problem with 1-dimensional data (square-wave vs sine-wave)
